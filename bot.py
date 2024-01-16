@@ -62,7 +62,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Kc Channel", url="https://t.me/Kc_Films_2024"),
                         InlineKeyboardButton("💬 Admin", url="https://t.me/Kingkc18")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/Kc_Auto_Request_Bot?startgroup")
                     ]
                 ]
             )
@@ -73,7 +73,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/Kc_Auto_Request_Bot?startgroup")
                     ]
                 ]
             )
@@ -104,7 +104,7 @@ async def chk(_, cb : CallbackQuery):
                         InlineKeyboardButton("🗯 Kc Channel", url="https://t.me/Kc_Films_2024"),
                         InlineKeyboardButton("💬 Admin", url="https://t.me/Kingkc18")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/vjmasterblastbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/Kc_Auto_Request_Bot?startgroup")
                     ]
                 ]
             )
